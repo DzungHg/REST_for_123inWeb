@@ -1,0 +1,35 @@
+D:\Personal Stuffs\VLANCE\123IN\RestService13871\RestService13871\bin\Release\RestService13871.dll.config
+D:\Personal Stuffs\VLANCE\123IN\RestService13871\RestService13871\bin\Release\RestService13871.dll
+D:\Personal Stuffs\VLANCE\123IN\RestService13871\RestService13871\bin\Release\RestService13871.pdb
+D:\Personal Stuffs\VLANCE\123IN\RestService13871\RestService13871\obj\Release\RestService13871.dll
+D:\Personal Stuffs\VLANCE\123IN\RestService13871\RestService13871\obj\Release\RestService13871.pdb
+D:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\obj\Release\RestService13871.csprojResolveAssemblyReference.cache
+D:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\obj\Release\RestService13871.dll
+D:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\obj\Release\RestService13871.pdb
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\bin\Release\RestService13871.dll.config
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\bin\Release\RestService13871.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\bin\Release\RestService13871.pdb
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\bin\Release\PriceCalcInteral.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\bin\Release\PriceCalcInteral.pdb
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\obj\Release\RestService13871.csprojResolveAssemblyReference.cache
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\obj\Release\RestService13871.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\obj\Release\RestService13871.pdb
+D:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\bin\Release\RestService13871.dll.config
+D:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\bin\Release\RestService13871.dll
+D:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\bin\Release\RestService13871.pdb
+D:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\bin\Release\PriceCalcInteral.dll
+D:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\bin\Release\PriceCalcInteral.pdb
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\bin\Release\HoTroTinhGiaPhang.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\RestService13871\bin\Release\HoTroTinhGiaPhang.pdb
+d:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\bin\Release\HoTroTinhGiaPhang.dll
+d:\My Data\C_SharpProjects\RestService13871_r11\RestService13871\bin\Release\HoTroTinhGiaPhang.pdb
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\bin\Release\RestService13871.dll.config
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\bin\Release\RestService13871.dll
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\bin\Release\RestService13871.pdb
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\bin\Release\HoTroTinhGiaPhang.dll
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\bin\Release\PriceCalcInteral.dll
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\bin\Release\HoTroTinhGiaPhang.pdb
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\bin\Release\PriceCalcInteral.pdb
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\obj\Release\RestService13871.csprojResolveAssemblyReference.cache
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\obj\Release\RestService13871.dll
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\RestService13871\obj\Release\RestService13871.pdb

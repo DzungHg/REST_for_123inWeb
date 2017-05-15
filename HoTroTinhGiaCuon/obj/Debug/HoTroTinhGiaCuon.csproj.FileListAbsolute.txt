@@ -1,0 +1,7 @@
+E:\My Datas\C_SharpProjects\RestService13871\RestService13871_r12_11\HoTroTinhGiaCuon\bin\Debug\HoTroTinhGiaCuon.dll
+E:\My Datas\C_SharpProjects\RestService13871\RestService13871_r12_11\HoTroTinhGiaCuon\bin\Debug\HoTroTinhGiaCuon.pdb
+E:\My Datas\C_SharpProjects\RestService13871\RestService13871_r12_11\HoTroTinhGiaCuon\bin\Debug\PriceCalcInternal.dll
+E:\My Datas\C_SharpProjects\RestService13871\RestService13871_r12_11\HoTroTinhGiaCuon\bin\Debug\PriceCalcInternal.pdb
+E:\My Datas\C_SharpProjects\RestService13871\RestService13871_r12_11\HoTroTinhGiaCuon\obj\Debug\HoTroTinhGiaCuon.csprojResolveAssemblyReference.cache
+E:\My Datas\C_SharpProjects\RestService13871\RestService13871_r12_11\HoTroTinhGiaCuon\obj\Debug\HoTroTinhGiaCuon.dll
+E:\My Datas\C_SharpProjects\RestService13871\RestService13871_r12_11\HoTroTinhGiaCuon\obj\Debug\HoTroTinhGiaCuon.pdb

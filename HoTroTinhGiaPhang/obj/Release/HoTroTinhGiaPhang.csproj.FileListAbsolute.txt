@@ -1,0 +1,7 @@
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\HoTroTinhGiaPhang\bin\Release\HoTroTinhGiaPhang.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\HoTroTinhGiaPhang\bin\Release\HoTroTinhGiaPhang.pdb
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\HoTroTinhGiaPhang\bin\Release\PriceCalcInteral.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\HoTroTinhGiaPhang\bin\Release\PriceCalcInteral.pdb
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\HoTroTinhGiaPhang\obj\Release\HoTroTinhGiaPhang.csprojResolveAssemblyReference.cache
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\HoTroTinhGiaPhang\obj\Release\HoTroTinhGiaPhang.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\HoTroTinhGiaPhang\obj\Release\HoTroTinhGiaPhang.pdb

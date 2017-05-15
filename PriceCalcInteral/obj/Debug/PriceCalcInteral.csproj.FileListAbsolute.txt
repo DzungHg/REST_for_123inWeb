@@ -1,0 +1,5 @@
+d:\My Data\C_SharpProjects\RestService13871\RestService13871_r11_28\PriceCalcInteral\bin\Debug\PriceCalcInteral.dll
+d:\My Data\C_SharpProjects\RestService13871\RestService13871_r11_28\PriceCalcInteral\bin\Debug\PriceCalcInteral.pdb
+d:\My Data\C_SharpProjects\RestService13871\RestService13871_r11_28\PriceCalcInteral\obj\Debug\PriceCalcInteral.csprojResolveAssemblyReference.cache
+d:\My Data\C_SharpProjects\RestService13871\RestService13871_r11_28\PriceCalcInteral\obj\Debug\PriceCalcInteral.dll
+d:\My Data\C_SharpProjects\RestService13871\RestService13871_r11_28\PriceCalcInteral\obj\Debug\PriceCalcInteral.pdb

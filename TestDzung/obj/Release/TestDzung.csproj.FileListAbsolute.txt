@@ -1,0 +1,23 @@
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\bin\Release\TestDzung.exe.config
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\bin\Release\TestDzung.exe
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\bin\Release\TestDzung.pdb
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\bin\Release\PriceCalcInteral.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\bin\Release\PriceCalcInteral.pdb
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\obj\Release\TestDzung.csprojResolveAssemblyReference.cache
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\obj\Release\TestDzung.exe
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\obj\Release\TestDzung.pdb
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\bin\Release\TestDzung.exe.config
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\obj\Release\TestDzung.exe
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\obj\Release\TestDzung.pdb
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\bin\Release\TestDzung.exe
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\bin\Release\TestDzung.pdb
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\bin\Release\PriceCalcInteral.dll
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\bin\Release\PriceCalcInteral.pdb
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\obj\Release\TestDzung.csprojResolveAssemblyReference.cache
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\bin\Release\HoTroTinhGiaPhang.dll
+D:\C_Sharp Projects\My Biz Solutions\RestService13871_r11\TestDzung\bin\Release\HoTroTinhGiaPhang.pdb
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\bin\Release\HoTroTinhGiaPhang.dll
+D:\My Data\C_SharpProjects\RestService13871_r11\TestDzung\bin\Release\HoTroTinhGiaPhang.pdb
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\TestDzung\bin\Release\TestDzung.exe.config
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\TestDzung\obj\Release\TestDzung.exe
+D:\My Data\C_SharpProjects\RestService13871\RestService13871_r11\TestDzung\obj\Release\TestDzung.pdb

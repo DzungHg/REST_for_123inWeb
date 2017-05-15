@@ -1,0 +1,38 @@
+<publishData>
+  <publishTarget publishUrl="E:\My Datas\Publish WCF\RestService13871\">
+    <file relUrl="Web.config" publishTime="11/23/2016 10:44:32" />
+    <file relUrl="bin/HoTroTinhGiaPhang.dll" publishTime="12/11/2016 11:14:03" />
+    <file relUrl="bin/HoTroTinhGiaPhang.pdb" publishTime="12/11/2016 11:14:03" />
+    <file relUrl="Service.svc" publishTime="10/15/2016 12:27:26" />
+    <file relUrl="bin/PriceCalcInternal.dll" publishTime="12/11/2016 11:14:03" />
+    <file relUrl="bin/HoTroTinhGiaCuon.dll" publishTime="12/11/2016 11:23:58" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="10/15/2016 10:21:30" />
+    <file relUrl="bin/RestService13871.pdb" publishTime="12/11/2016 11:23:58" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="10/15/2016 10:21:30" />
+    <file relUrl="bin/PriceCalcInteral.pdb" publishTime="11/28/2016 22:27:52" />
+    <file relUrl="bin/EntityFramework.SqlServer.xml" publishTime="10/15/2016 10:21:30" />
+    <file relUrl="RestService13871.RestService.svc" publishTime="12/11/2016 11:23:59" />
+    <file relUrl="bin/HoTroTinhGiaCuon.pdb" publishTime="12/11/2016 11:23:58" />
+    <file relUrl="bin/RestService13871.dll.config" publishTime="11/23/2016 10:44:32" />
+    <file relUrl="bin/EntityFramework.SqlServer.dll" publishTime="10/15/2016 10:21:30" />
+    <file relUrl="bin/PriceCalcInteral.dll" publishTime="11/28/2016 22:27:52" />
+    <file relUrl="bin/PriceCalcInternal.pdb" publishTime="12/11/2016 11:14:03" />
+    <file relUrl="bin/RestService13871.dll" publishTime="12/11/2016 11:23:58" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\C_Sharp Projects\Published Rest WCf\RestService13871\">
+    <file relUrl="bin/RestService13871.dll" publishTime="12/09/2016 11:36:54" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="10/15/2016 10:21:30" />
+    <file relUrl="bin/HoTroTinhGiaPhang.dll" publishTime="11/29/2016 00:04:42" />
+    <file relUrl="Service.svc" publishTime="10/15/2016 12:27:26" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="10/15/2016 10:21:30" />
+    <file relUrl="bin/RestService13871.pdb" publishTime="12/09/2016 11:36:54" />
+    <file relUrl="Web.config" publishTime="11/23/2016 10:44:32" />
+    <file relUrl="bin/RestService13871.dll.config" publishTime="11/23/2016 10:44:32" />
+    <file relUrl="bin/PriceCalcInteral.pdb" publishTime="11/28/2016 22:27:52" />
+    <file relUrl="bin/EntityFramework.SqlServer.xml" publishTime="10/15/2016 10:21:30" />
+    <file relUrl="RestService13871.RestService.svc" publishTime="12/09/2016 11:36:55" />
+    <file relUrl="bin/PriceCalcInteral.dll" publishTime="11/28/2016 22:27:52" />
+    <file relUrl="bin/EntityFramework.SqlServer.dll" publishTime="10/15/2016 10:21:30" />
+    <file relUrl="bin/HoTroTinhGiaPhang.pdb" publishTime="11/29/2016 00:04:42" />
+  </publishTarget>
+</publishData>
